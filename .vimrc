@@ -1,3 +1,8 @@
 execute pathogen#infect()
+set nocompatible
+filetype plugin on
 syntax on
-filetype plugin indent on
+set nu
+set relativenumber
+set paste
+set tabstop=4
